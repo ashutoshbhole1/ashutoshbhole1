@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashutosh Bhole
+### 🚀 Web Developer | AI Automation Enthusiast 
 
-<!--
-**ashutoshbhole1/ashutoshbhole1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a creative   Full-Stack Developer with a focus on AI-powered automation, web design, and business systems. I love turning ideas into scalable digital products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, C, C++, SQL  
+**Front-end:** React.js, Next.js, TailwindCSS , Shadcn UI 
+**Back-end:** Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**DevOps:** Git, GitHub, Netlify, Vercel  
+**Automation:** n8n 
+**Other:** Canva, Figma, Adobe Photoshop , Premiere Pro
+
+---
+
+## 📬 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshbholeofficial)
+- 📧 ashutoshbhole1@gmail.com
+
+
+---
+> “Code with purpose. Build with passion.” 🔥

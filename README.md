@@ -22,6 +22,9 @@ I'm a creative   Full-Stack Developer with a focus on AI-powered automation, web
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshbholeofficial)
 - 📧 ashutoshbhole1@gmail.com
 
-
 ---
-> “Code with purpose. Build with passion.” 🔥
+
+⚡ Fun Fact: I love simplifying business systems with smart code.
+
+> “Build smart. Grow fast. Stay humble.” — Ashutosh Bhole
+

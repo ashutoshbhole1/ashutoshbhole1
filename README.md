@@ -19,7 +19,7 @@ I'm a creative   Full-Stack Developer with a focus on AI-powered automation, web
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshbholeofficial)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-bhole)
 - 📧 ashutoshbhole1@gmail.com
 
 ---

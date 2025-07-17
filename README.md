@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ashutosh Bhole
-### 🚀 Web Developer | AI Automation Enthusiast 
+### 🚀Full Stack Web Developer | AI Automation Enthusiast 
 
 I'm a creative   Full-Stack Developer with a focus on AI-powered automation, web design, and business systems. I love turning ideas into scalable digital products.
 
